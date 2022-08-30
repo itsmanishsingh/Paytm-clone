@@ -14,7 +14,7 @@ I have cloned the [Paytm](https://paytm.com/) website using HTML and TAILWIND CS
 ### `TAILWIND CSS`
 
 ***
-### Check the live website [here]()
+### Check the live website [here](https://paytm-clone-18.netlify.app/)
 
 ***
 ## My Learnings 
@@ -23,6 +23,8 @@ I have cloned the [Paytm](https://paytm.com/) website using HTML and TAILWIND CS
 - Used flexbox to make website responsive
 - Implemented hover animations.
 
+### Youtube Demo-link [Youtube-link](https://youtu.be/xbLWr9gWDbU)
+***
 ### How the website :
 
 ![OUTPUT](./output/out-01.png)
@@ -34,7 +36,6 @@ I have cloned the [Paytm](https://paytm.com/) website using HTML and TAILWIND CS
 
 
 
-### Youtube Demo-link [Youtube-link](https://youtu.be/xbLWr9gWDbU)
 
 ***
 
